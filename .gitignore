@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Next.js build output
+.next/
+**/.next/
+
+# Environment files with database passwords
+.env
+.env*.local
+**/.env
+**/.env*.local
+
+# System/IDE files
+.DS_Store
+.vscode/
